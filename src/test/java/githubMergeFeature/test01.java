@@ -1,0 +1,7 @@
+package githubMergeFeature;
+
+public class test01 {
+  public static void main(String[] args) {
+    System.out.println("merge these in github");
+  }
+}
